@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "project": {
+      "key": "PRAC"
+    },
+    "summary": "Update CREATION",
+    "description": "Updated sample issue using id",
+    "issuetype": {
+      "id": "10002"
+
+
+    }
+
+
+
+  }
+}
